@@ -1,5 +1,7 @@
 ## Hi there 👋 🌱 I’m currently learning to use GitHub
 
+![Captura de pantalla 2025-05-01 204604](https://github.com/user-attachments/assets/b4994ec4-aa3f-495a-9036-2fecc624ab81)
+
 <!--
 **ierojas/ierojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
